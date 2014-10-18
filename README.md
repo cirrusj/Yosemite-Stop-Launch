@@ -1,1 +1,1 @@
-Visit (http://cirrusj.github.io/Yosemite-Stop-Launch/)
+Visit http://cirrusj.github.io/Yosemite-Stop-Launch/
